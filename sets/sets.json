@@ -364,5 +364,11 @@
     "name": "Caretaker",
     "code": "Ctkr",
     "virtual": true
+  },
+  {
+    "id": "235",
+    "name": "Classification: Civilian",
+    "code": "CC",
+    "virtual": true
   }
 ]
