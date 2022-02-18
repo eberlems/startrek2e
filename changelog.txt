@@ -696,3 +696,9 @@ Updated
 -Joseph Sisko, Creole Chef
 -Telek R'Mor, Anachronistic Visitor
 -Guinan, Battleship Bartender
+
+3.0.8 (02-18-22)
+(Eberlems)
+
+NEW
+-Classification: Civilian

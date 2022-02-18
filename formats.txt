@@ -6,18 +6,19 @@
 	<set>SE</set>
 	<set>En</set>
 	<set>CA</set>
+	<set>SR</set>
 	<set>NE</set>
 	<set>FT</set>
 	<set>R2</set>
 	<set>SW</set>
 	<set>BG</set>
 	<set>DM</set>
+	<set>AC</set>
 	<set>CL</set>
 	<set>Ge</set>
 	<set>TV</set>
 	<set>IMD</set>
 	<set>WYLB</set>
-	<set>AC</set>
 </format>
 <format>
 	<label>Standard</label>
@@ -26,12 +27,14 @@
 	<set>SE</set>
 	<set>En</set>
 	<set>CA</set>
+	<set>SR</set>
 	<set>NE</set>
 	<set>FT</set>
 	<set>R2</set>
 	<set>SW</set>
 	<set>BG</set>
 	<set>DM</set>
+	<set>AC</set>
 	<set>CL</set>
 	<set>Ge</set>
 	<set>TV</set>
@@ -82,6 +85,7 @@
 	<set>SL</set>
 	<set>MAH</set>
 	<set>HaD</set>
-	<set>AC</set>
+	<set>Ctkr</set>
+	<set>CC</set>
 </format>
 </formatdefinitions>
