@@ -370,5 +370,11 @@
     "name": "Classification: Civilian",
     "code": "CC",
     "virtual": true
+  },
+  {
+    "id": "237",
+    "name": "The Menagerie",
+    "code": "TM",
+    "virtual": true
   }
 ]
