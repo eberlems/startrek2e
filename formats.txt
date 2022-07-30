@@ -87,5 +87,6 @@
 	<set>HaD</set>
 	<set>Ctkr</set>
 	<set>CC</set>
+	<set>TM</set>
 </format>
 </formatdefinitions>

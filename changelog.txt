@@ -702,3 +702,41 @@ Updated
 
 NEW
 -Classification: Civilian
+
+3.0.9 (07-30-22)
+(Eberlems)
+
+NEW
+-The Menagerie
+-Ceti Alpha V, Escape from Purgatory
+-Odo Curzon Odo *VP
+-Borg Cutting Beam *VP
+Chula: The Game *VP
+Odo, Curzon Odo *VP
+Krim, Thoughtful Tactician *VP
+Talnot *VP
+Souls of the Dead *VP
+Denorios Belt, Locate Celestial Temple *VP
+Confessions in the Pale Moonlight *VP
+Organia, Secure Strategic Base *VP
+Sector 21396, Commandeer Prototype *VP
+Dukat, Prefect of Bajor *VP
+Chang, Gorkon's Chief of Staff *VP
+U.S.S. Constitution *VP
+D-7 Battlecruiser *VP
+Bird-of-Prey *VP
+Sector 441, Analyze Radiation *VP
+
+Updated
+-Accelerated Aging
+-A Pattern of Lies
+-Dressing Down
+-Power Shift
+-To Rule in Hell
+-Ceti Alpha V, Forge Settlement
+-Devos II
+-Survey New World
+-Akorem Laan
+-Lyndsay Ballard
+-Korath
+-Joaquin
