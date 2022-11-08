@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220730</lastupdateYYMMDD>
+<lastupdateYYMMDD>221108</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Set The Menagerie and July errata https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>November errata https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

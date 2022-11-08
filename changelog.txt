@@ -740,3 +740,36 @@ Updated
 -Lyndsay Ballard
 -Korath
 -Joaquin
+
+3.0.9 (07-30-22)
+(Eberlems)
+
+NEW
+Skeleton Crew *VP
+Habak *VP
+Mobilization Points *VP
+Lustful Distraction *VP
+Bassen Rift, Interdict Genocidal Praetor *VP
+Requisitions Drone *VP
+Brunt, FCA Liquidator *VP
+Revised Seven of Nine, Shock-Trooper *VP
+Sybok, Fanatical Missionary *VP
+Ixtana'Rax, Honored Elder *VP
+Keevan, Conniving Liar *VP
+Bashir Founder, Imperturbable Infiltrator *VP
+Contested Defense Perimeter, Penetrate Enemy Lines *VP
+Hanok, Trade Minister *VP
+Porthos *VP
+
+Updated
+Murder Investigation
+So Many Enemies
+The Seen and the Unseen
+Final Cry
+Scum and Villainy
+Reconfigure
+Aamin Marritza, Honorable Patriot
+Tricia Jenkins, Relaxed Pilot
+Olarra
+X-List Reprints
+SR Reprints
