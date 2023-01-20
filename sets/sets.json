@@ -376,5 +376,17 @@
     "name": "The Menagerie",
     "code": "TM",
     "virtual": true
+  },
+  {
+    "id": "239",
+    "name": "Second Skin",
+    "code": "SS",
+    "virtual": true
+  },
+  {
+    "id": "240",
+    "name": "Timeless",
+    "code": "Tl",
+    "virtual": true
   }
 ]
