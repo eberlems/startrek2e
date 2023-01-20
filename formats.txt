@@ -88,5 +88,7 @@
 	<set>Ctkr</set>
 	<set>CC</set>
 	<set>TM</set>
+	<set>SS</set>
+	<set>Tl</set>
 </format>
 </formatdefinitions>
