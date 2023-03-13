@@ -1,6 +1,8 @@
 <uninstall>
-<dateYYMMDD>220729</dateYYMMDD>
+<dateYYMMDD>230312</dateYYMMDD>
 <removepath>sets/Reflection_2_0_reprints.txt</removepath>
+<removepath>sets/Excelsior.txt</removepath>
+<removepath>sets/Excelsior11.txt</removepath>
 <removepath>sets/setimages/general/STVP-EN321.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN318.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN330.jpg</removepath>
@@ -17,4 +19,17 @@
 <removepath>sets/setimages/general/STVP-EN328.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN329.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN335.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN24051.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN336.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN337.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN338.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN339.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN340.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN341.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN342.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN343.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN344.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN345.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN351.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN354.jpg</removepath>
 </uninstall>

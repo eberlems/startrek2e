@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230120</lastupdateYYMMDD>
+<lastupdateYYMMDD>230313</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>December errata, Second Skin and Timeless https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>March VPs https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

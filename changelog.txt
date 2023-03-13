@@ -711,21 +711,21 @@ NEW
 -Ceti Alpha V, Escape from Purgatory
 -Odo Curzon Odo *VP
 -Borg Cutting Beam *VP
-Chula: The Game *VP
-Odo, Curzon Odo *VP
-Krim, Thoughtful Tactician *VP
-Talnot *VP
-Souls of the Dead *VP
-Denorios Belt, Locate Celestial Temple *VP
-Confessions in the Pale Moonlight *VP
-Organia, Secure Strategic Base *VP
-Sector 21396, Commandeer Prototype *VP
-Dukat, Prefect of Bajor *VP
-Chang, Gorkon's Chief of Staff *VP
-U.S.S. Constitution *VP
-D-7 Battlecruiser *VP
-Bird-of-Prey *VP
-Sector 441, Analyze Radiation *VP
+-Chula: The Game *VP
+-Odo, Curzon Odo *VP
+-Krim, Thoughtful Tactician *VP
+-Talnot *VP
+-Souls of the Dead *VP
+-Denorios Belt, Locate Celestial Temple *VP
+-Confessions in the Pale Moonlight *VP
+-Organia, Secure Strategic Base *VP
+-Sector 21396, Commandeer Prototype *VP
+-Dukat, Prefect of Bajor *VP
+-Chang, Gorkon's Chief of Staff *VP
+-U.S.S. Constitution *VP
+-D-7 Battlecruiser *VP
+-Bird-of-Prey *VP
+-Sector 441, Analyze Radiation *VP
 
 Updated
 -Accelerated Aging
@@ -745,47 +745,64 @@ Updated
 (Eberlems)
 
 NEW
-Skeleton Crew *VP
-Habak *VP
-Mobilization Points *VP
-Lustful Distraction *VP
-Bassen Rift, Interdict Genocidal Praetor *VP
-Requisitions Drone *VP
-Brunt, FCA Liquidator *VP
-Revised Seven of Nine, Shock-Trooper *VP
-Sybok, Fanatical Missionary *VP
-Ixtana'Rax, Honored Elder *VP
-Keevan, Conniving Liar *VP
-Bashir Founder, Imperturbable Infiltrator *VP
-Contested Defense Perimeter, Penetrate Enemy Lines *VP
-Hanok, Trade Minister *VP
-Porthos *VP
+-Skeleton Crew *VP
+-Habak *VP
+-Mobilization Points *VP
+-Lustful Distraction *VP
+-Bassen Rift, Interdict Genocidal Praetor *VP
+-Requisitions Drone *VP
+-Brunt, FCA Liquidator *VP
+-Revised Seven of Nine, Shock-Trooper *VP
+-Sybok, Fanatical Missionary *VP
+-Ixtana'Rax, Honored Elder *VP
+-Keevan, Conniving Liar *VP
+-Bashir Founder, Imperturbable Infiltrator *VP
+-Contested Defense Perimeter, Penetrate Enemy Lines *VP
+-Hanok, Trade Minister *VP
+-Porthos *VP
 
 Updated
-Murder Investigation
-So Many Enemies
-The Seen and the Unseen
-Final Cry
-Scum and Villainy
-Reconfigure
-Aamin Marritza, Honorable Patriot
-Tricia Jenkins, Relaxed Pilot
-Olarra
-X-List Reprints
-SR Reprints
+-Murder Investigation
+-So Many Enemies
+-The Seen and the Unseen
+-Final Cry
+-Scum and Villainy
+-Reconfigure
+-Aamin Marritza, Honorable Patriot
+-Tricia Jenkins, Relaxed Pilot
+-Olarra
+-X-List Reprints
+-SR Reprints
 
 3.1.1 (01-20-23)
 (Eberlems)
 
 NEW
-Second Skin
-Timeless
+-Second Skin
+-Timeless
 
 Updated
-Advanced Battle Simulation
-Aid Maritime Sovereignty
-Contested Defense Perimeter, Penetrate Enemy Lines
-Gorlan Sector, Crush the Rebellion
-Mediate Peace Treaty
-Penetrate Enemy Lines
-Qo'noS, Heart of the Empire
+-Advanced Battle Simulation
+-Aid Maritime Sovereignty
+-Contested Defense Perimeter, Penetrate Enemy Lines
+-Gorlan Sector, Crush the Rebellion
+-Mediate Peace Treaty
+-Penetrate Enemy Lines
+-Qo'noS, Heart of the Empire
+
+3.1.2 (03-13-23)
+(Eberlems)
+
+Updated *VP
+-Skeleton Crew *VP
+-Habak *VP
+-Mobilization Points *VP
+-Lustful Distraction *VP
+-Bassen Rift, Interdict Genocidal Praetor *VP
+-Requisitions Drone *VP
+-Brunt, FCA Liquidator *VP
+-Revised Seven of Nine, Shock-Trooper *VP
+-Sybok, Fanatical Missionary *VP
+-Neelix, "Fearless Warrior" *VP
+-Pillar of the Community *VP
+-Porthos *VP
