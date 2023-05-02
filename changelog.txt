@@ -806,3 +806,24 @@ Updated *VP
 -Neelix, "Fearless Warrior" *VP
 -Pillar of the Community *VP
 -Porthos *VP
+
+3.1.3 (05-02-23)
+(Eberlems)
+
+Updated 
+-Improved Scenery AP
+-Ishara Yar, Deceitful Soldier AP
+-Mona Luvsitt, Valet AP
+-Elim Garak, Federation Agent AP
+-The Pendari Champion, Electrifying Favorite AP
+-Miramanee, Loyal Priestess AP
+-Second Skin (SS)
+-Counterinsurgency Program *VP
+-Kitrik
+-Our Death is Glory to the Founders
+-Our Death is Glory to the Founders *VP
+-Changed History
+-Bruce Maddox
+-Interphasic Effects
+-Demonstrate Aggressive Intent
+-Planned Provocation

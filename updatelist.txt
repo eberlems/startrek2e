@@ -1,12 +1,12 @@
-startrek2e	03-13-23
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	35546
+startrek2e	05-02-23
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	35885
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	186865
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	113498
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1044292
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	52000888
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49222616
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1084143
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	52222424
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49223276
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-data1.jpg	2347
 plugins/startrek2e/av-st-data2.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-data2.jpg	4419
@@ -72,8 +72,8 @@ plugins/startrek2e/packs/15-TUC.jpg	https://raw.githubusercontent.com/eberlems/s
 plugins/startrek2e/packs/16-FTB.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/16-FTB.jpg	8244
 plugins/startrek2e/packs/17-RTS.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/17-RTS.jpg	922
 plugins/startrek2e/packs/18-TSOP.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/18-TSOP.jpg	-8278
-plugins/startrek2e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions1.xml	903206
-plugins/startrek2e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions2.xml	4478361
+plugins/startrek2e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions1.xml	857360
+plugins/startrek2e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions2.xml	4438799
 plugins/startrek2e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/CardMissing.jpg	177461
 plugins/startrek2e/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/Spawned.jpg	163676
 plugins/startrek2e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/cardback.jpg	179863

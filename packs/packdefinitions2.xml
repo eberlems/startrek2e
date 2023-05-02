@@ -341,8 +341,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Second Edition Klingon Starter</packtitle>
         <packimage>01-SE-Kli</packimage>
@@ -650,11 +648,9 @@
                     <eval>IS</eval>
                     <data>Qo'noS Heart of the Empire</data>
                 </crit>
-            </kind>            
+            </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Second Edition TNG Starter</packtitle>
         <packimage>01-SE-TNG</packimage>
@@ -989,8 +985,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Second Edition Romulan Starter</packtitle>
         <packimage>01-SE-Rom</packimage>
@@ -1309,8 +1303,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Call to Arms Dominion Starter</packtitle>
         <packimage>03-CA-Dom</packimage>
@@ -1621,8 +1613,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Call to Arms Borg Starter</packtitle>
         <packimage>03-CA-Bor</packimage>
@@ -1926,8 +1916,6 @@
 
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Fractured Time - Set</packtitle>
         <packimage>05-FT</packimage>
@@ -2259,12 +2247,8 @@
                     <data>5P040</data>
                 </crit>
             </kind>
-            <kind>
-                <qty>1</qty>
         </chance>
     </pack>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Dangerous Missions Pack</packtitle>
         <packimage>09-DMSF</packimage>
@@ -2277,7 +2261,7 @@
         </packcommoncrit>
         <chance>
             <prob>33</prob>
-			<kind>
+            <kind>
                 <qty>1</qty>
                 <crit>
                     <field>CollectorsInfo</field>
@@ -2316,7 +2300,7 @@
                     <eval>IS</eval>
                     <data>9R009</data>
                 </crit>
-            </kind>	
+            </kind>
             <kind>
                 <qty>2</qty>
                 <crit>
@@ -2334,9 +2318,9 @@
                 </crit>
             </kind>
         </chance>
-		<chance>
+        <chance>
             <prob>33</prob>
-			<kind>
+            <kind>
                 <qty>1</qty>
                 <crit>
                     <field>CollectorsInfo</field>
@@ -2393,9 +2377,9 @@
                 </crit>
             </kind>
         </chance>
-		<chance>
+        <chance>
             <prob>33</prob>
-			<kind>
+            <kind>
                 <qty>1</qty>
                 <crit>
                     <field>CollectorsInfo</field>
@@ -2453,9 +2437,6 @@
             </kind>
         </chance>
     </pack>
-</packdefinitions>
-</packdefinitions>
-<packdefinitions version="1.0">
     <pack>
         <packtitle>Genesis - Set</packtitle>
         <packimage>11-Ge</packimage>
