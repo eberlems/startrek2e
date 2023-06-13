@@ -827,3 +827,19 @@ Updated
 -Interphasic Effects
 -Demonstrate Aggressive Intent
 -Planned Provocation
+
+3.1.4 (06-13-23)
+(Eberlems)
+
+Updated 
+-Outmatched
+-Supervise Dilithium Mine
+-The Reman Mines
+-Dukat, Pah-Wraith Puppet
+-Kira Nerys, Iliana Ghemor
+-Mila, Trusted Confidante
+-Jean-Luc Picard, In the Nexus
+-Vosk, Temporal Fanatic
+
+NEW
+-Second Chances

@@ -90,5 +90,6 @@
 	<set>TM</set>
 	<set>SS</set>
 	<set>Tl</set>
+	<set>SC</set>
 </format>
 </formatdefinitions>
