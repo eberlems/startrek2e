@@ -843,3 +843,21 @@ Updated
 
 NEW
 -Second Chances
+
+3.1.5 (12-08-23)
+(Eberlems)
+Updated
+-Risan Approach, Abduction Plot
+-Callinon VII, Access Relay Station
+-Second Moon of Bajor VIII, Acquire Illicit Explosives
+-Hromi Cluster, Amnesty Talks
+-Beltane IX, Cargo Rendezvous
+-L-S VI, Changeling Research
+-Edge of Denkiri Arm, Chart Stellar Cluster
+-T'Lani III, Eliminate Harvesters
+-Khitomer, Khitomer Investigation
+-Sector 04-70, Verify Evidence
+-Barzan Wormhole, Wormhole Negotiations
+-Beverly Crusher, Chief Medical Officer
+-Preposterous Plan
+-I.K.S. Negh'Var, Imperial Flagship
