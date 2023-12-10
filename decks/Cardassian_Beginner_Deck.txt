@@ -65,7 +65,7 @@ Dilemmas:
 1	Old Differences
 1	Rogue Borg Ambush
 Missions:
-1	Eliminate Harvesters
+1	T'Lani III Eliminate Harvesters
 1	Intercept Renegade
 1	Kreetassa Perform Intricate Ritual
 1	Deep Space Station K-7 Monitor Federation Commerce

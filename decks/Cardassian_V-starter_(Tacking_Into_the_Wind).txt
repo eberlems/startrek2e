@@ -55,8 +55,8 @@ Dilemmas:
 1	Galileo Grounded
 1	Rude Awakening
 Missions:
-1	Acquire Illicit Explosives
+1	Second Moon of Bajor VIII Acquire Illicit Explosives
 1	Cardassia Prime Hardscrabble World
 1	Collect Sample
 1	Lapideas System Geological Survey
-1	Survey New World
+1	Near Polaris Survey New World

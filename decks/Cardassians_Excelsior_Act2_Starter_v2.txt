@@ -65,7 +65,7 @@ Dilemmas:
 1	Interstellar Exigence
 1	Interstellar Exigence
 Missions:
-1	Abduction Plot
+1	Risan Approach Abduction Plot
 1	Cardassia Prime Hardscrabble World
 1	Intercept Renegade
 1	Extract Defector

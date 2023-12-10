@@ -574,7 +574,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Khitomer Investigation</data>
+                    <data>Khitomer Khitomer Investigation</data>
                 </crit>
             </kind>
             <kind>
@@ -1210,7 +1210,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Supervise Dilithium Mine</data>
+                    <data>Remus Supervise Dilithium Mine</data>
                 </crit>
             </kind>
             <kind>
@@ -1218,7 +1218,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Abduction Plot</data>
+                    <data>Risan Approach Abduction Plot</data>
                 </crit>
             </kind>
             <kind>

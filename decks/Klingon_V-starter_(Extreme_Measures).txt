@@ -58,5 +58,4 @@ Missions:
 1	Cardassia IV Rescue Prisoners
 1	Brute Force
 1	Qo'noS Heart of the Empire
-1	Protect the Escapees
-1	Honor the Fallen
+1	Cresen Gap Honor the Fallen

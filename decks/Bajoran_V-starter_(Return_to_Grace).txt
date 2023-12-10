@@ -55,8 +55,8 @@ Dilemmas:
 1	Chula: Trickery
 1	Nonlinear Existence
 Missions:
-1	Amnesty Talks
+1	Hromi Cluster Amnesty Talks
 1	Investigate Maquis Activity
-1	Transport Delegations
+1	Selay Transport Delegations
 1	Defend Evolutionary Link
 1	Bajor Blessed of the Prophets

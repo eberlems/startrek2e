@@ -55,7 +55,7 @@ Dilemmas:
 1	Honorable Pursuit
 1	One Step Ahead
 Missions:
-1	Acquire Illicit Explosives
+1	Second Moon of Bajor VIII Acquire Illicit Explosives
 1	Evacuate Colony
 1	Search for Survivors
 1	Mouth of the Wormhole Terok Nor

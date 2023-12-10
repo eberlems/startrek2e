@@ -1,0 +1,44 @@
+Name	Set	ImageFile	Rarity	Unique	CollectorsInfo	Type	Cost	Mission/DilemmaType	Span	Points	Quadrant	Affiliation	Icons	Staff	Keywords	Class	Species	Skills	Integrity/Range	Cunning/Weapons	Strength/Shields	Text
+Aid Legendary Civilization	renamed	renamed	V	Y	15V023	Mission	0	P														Renamed to Aldea Aid Legendary Civilization
+Transport Crash Survivor	renamed	renamed	V	Y	37V015	Mission	0	S														Renamed to Alpha 5 Approach Transport Crash Survivor
+Transport Crash Survivor (IDR)	renamed	renamed	V	Y	37V015	Mission	0	S	3	30	A											Renamed to Alpha 5 Approach Transport Crash Survivor (IDR)
+Wormhole Negotiations	renamed	renamed	U	Y	1U206	Mission	0	S														Renamed to Barzan Wormhole Wormhole Negotiations
+Cargo Rendezvous	renamed	renamed	U	Y	1U154	Mission	0	P														Renamed to Beltane IX Cargo Rendezvous
+Advanced Battle Simulation	renamed	renamed	U	Y	7U045	Mission	0	S														Renamed to Braslota Advanced Battle Simulation
+Access Relay Station	renamed	renamed	U	Y	1U149	Mission	0	P														Renamed to Callinon VII Access Relay Station
+Rescue Prisoners	renamed	renamed	U	Y	1U194	Mission	0	P														Renamed to Cardassia IV Rescue Prisoners
+Kressari Rendezvous	renamed	renamed	U	Y	1U184	Mission	0	S														Renamed to Cardassian Outskirts Kressari Rendezvous
+Find Lifeless World	renamed	renamed	U	Y	14U056	Mission	0	P														Renamed to Ceti Alpha V Find Lifeless World
+Forge Settlement	renamed	renamed	V	Y	29V035	Mission	0	P														Renamed to Ceti Alpha V Forge Settlement
+Perimeter Penetrate Enemy Lines	renamed	renamed	V	Y	26V024	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines
+Perimeter Penetrate Enemy Lines *VP	renamed	renamed	VP	Y	0VP349	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines *VP
+Protect the Escapees	renamed	renamed	U	Y	7U051	Mission	0	S														Renamed to Crensen Gap Protect the Escapees
+The Last Outpost	renamed	renamed	U	Y	7U053	Mission	0	P														Renamed to Delphi Ardu IV The Last Outpost
+Encounter at Farpoint	renamed	renamed	U	Y	1U164	Mission	0	P														Renamed to Deneb IV Encounter at Farpoint
+Access Relay Station	renamed	renamed	U	Y	1U149	Mission	0	P														Renamed to Callinon VII Access Relay Station
+Chart Stellar Cluster	renamed	renamed	U	Y	1U156	Mission	0	S														Renamed to Edge of Denkiri Arm Chart Stellar Cluster
+Political Intrigue	renamed	renamed	U	Y	3U100	Mission	0	P														Renamed to Farius Prime Political Intrigue
+Historical Research	renamed	renamed	U	Y	13U045	Mission	0	P														Renamed to Gateway Historical Research
+Amnesty Talks	renamed	renamed	U	Y	1U151	Mission	0	S														Renamed to Hromi Cluster Amnesty Talks
+Khitomer Investigation	renamed	renamed	S	Y	1S183	Mission	0	P														Renamed to Khitomer Khitomer Investigation
+Mediate Peace Treaty	renamed	renamed	V	Y	19V008	Mission	0	S														Renamed to Kriosian Passage Mediate Peace Treaty
+Changeling Research	renamed	renamed	U	Y	1U155	Mission	0	P														Renamed to L-S VI Changeling Research
+Geological Survey	renamed	renamed	S	Y	1S171	Mission	0	P														Renamed to Lapideas System Geological Survey
+Mine Nebula	renamed	renamed	U	Y	2U101	Mission	0	S														Renamed to McAllister C-5 Nebula Mine Nebula
+Survey New World	renamed	renamed	U	Y	8U062	Mission	0	P														Renamed to Near Polaris Survey New World
+Secure Strategic Base	renamed	renamed	VP	Y	0VP323	Mission	0	P														Renamed to Organia Secure Strategic Base
+Supervise Dilithium Mine	renamed	renamed	S	Y	1S202	Mission	0	P														Renamed to Reman Supervise Dilithium Mine
+Shore Leave	renamed	renamed	U	Y	14U062	Mission	0	P														Renamed to Risa Shore Leave
+Abduction Plot	renamed	renamed	S	Y	1S148	Mission	0	S														Renamed to Risan Approach Abduction Plot
+Acquire Illicit Explosives	renamed	renamed	U	Y	1U150	Mission	0	S														Renamed to Second Moon of Bajor VIII Acquire Illicit Explosives
+Verify Evidence	renamed	renamed	U	Y	1U205	Mission	0	S														Renamed to Sector 04-70 Verify Evidence
+Commandeer Prototype	renamed	renamed	U	Y	14U052	Mission	0	S														Renamed to Sector 21396 Commandeer Prototype
+Transport Delegations	renamed	renamed	U	Y	7U052	Mission	0	P														Renamed to Selay Transport Delegations
+Demonstrate Aggressive Intent	renamed	renamed	V	Y	17V045	Mission	0	S														Renamed to Space Near New Bajor Demonstrate Aggressive Intent
+Eliminate Sphere Network	renamed	renamed	U	Y	14U053	Mission	0	S														Renamed to Sphere 41 Eliminate Sphere Network
+Eliminate Harvesters	renamed	renamed	U	Y	1U163	Mission	0	P														Renamed to T'Lani III Eliminate Harvesters
+Aid Maritime Sovereignty	renamed	renamed	V	Y	16V028	Mission	0	P														Renamed to The Waters Aid Maritime Sovereignty
+Salvage Dominion Ship	renamed	renamed	S	Y	3S104	Mission	0	P														Renamed to Torga IV Salvage Dominion Ship
+Destroy Iconian Gateway	renamed	renamed	S	Y	3 S 86	Mission	0	P														Renamed to Vandros IV Destroy Iconian Gateway
+Assimilate Resistance	renamed	renamed	U	Y	12U039	Mission	0	S														Renamed to Wolf 359 Assimilate Resistance
+Jean Hejar Nova Squadron Navigator	renamed	renamed	C	Y	8C073	Personnel	1								 							Renamed to Jean Hajar

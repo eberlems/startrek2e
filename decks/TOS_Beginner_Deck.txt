@@ -66,7 +66,7 @@ Dilemmas:
 1	Rogue Borg Ambush
 Missions:
 1	Advanced Battle Simulation
-1	Secure Strategic Base
+1	Organia Secure Strategic Base
 1	Rigel X Locate Mysterious Contact
 1	Starbase 718 Investigate Cryosatellite
 1	Earth Lush and Beautiful Home
