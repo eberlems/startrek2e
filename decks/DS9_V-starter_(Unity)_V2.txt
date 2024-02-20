@@ -59,4 +59,4 @@ Missions:
 1	Mouth of the Wormhole Deep Space 9
 1	Camping Trip
 1	Survey Star System
-1	Explore Extradimensional World
+1	Meridian Explore Extradimensional World

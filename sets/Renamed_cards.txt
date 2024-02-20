@@ -1,7 +1,7 @@
 Name	Set	ImageFile	Rarity	Unique	CollectorsInfo	Type	Cost	Mission/DilemmaType	Span	Points	Quadrant	Affiliation	Icons	Staff	Keywords	Class	Species	Skills	Integrity/Range	Cunning/Weapons	Strength/Shields	Text
 Aid Legendary Civilization	renamed	renamed	V	Y	15V023	Mission	0	P														Renamed to Aldea Aid Legendary Civilization
 Transport Crash Survivor	renamed	renamed	V	Y	37V015	Mission	0	S														Renamed to Alpha 5 Approach Transport Crash Survivor
-Transport Crash Survivor (IDR)	renamed	renamed	V	Y	37V015	Mission	0	S	3	30	A											Renamed to Alpha 5 Approach Transport Crash Survivor (IDR)
+Transport Crash Survivor (IDR)	renamed	renamed	V	Y	37V015	Mission	0	S														Renamed to Alpha 5 Approach Transport Crash Survivor (IDR)
 Wormhole Negotiations	renamed	renamed	U	Y	1U206	Mission	0	S														Renamed to Barzan Wormhole Wormhole Negotiations
 Cargo Rendezvous	renamed	renamed	U	Y	1U154	Mission	0	P														Renamed to Beltane IX Cargo Rendezvous
 Advanced Battle Simulation	renamed	renamed	U	Y	7U045	Mission	0	S														Renamed to Braslota Advanced Battle Simulation
@@ -41,4 +41,7 @@ Aid Maritime Sovereignty	renamed	renamed	V	Y	16V028	Mission	0	P														Ren
 Salvage Dominion Ship	renamed	renamed	S	Y	3S104	Mission	0	P														Renamed to Torga IV Salvage Dominion Ship
 Destroy Iconian Gateway	renamed	renamed	S	Y	3 S 86	Mission	0	P														Renamed to Vandros IV Destroy Iconian Gateway
 Assimilate Resistance	renamed	renamed	U	Y	12U039	Mission	0	S														Renamed to Wolf 359 Assimilate Resistance
-Jean Hejar Nova Squadron Navigator	renamed	renamed	C	Y	8C073	Personnel	1								 							Renamed to Jean Hajar
+Jean Hejar Nova Squadron Navigator	renamed	renamed	C	Y	8C073	Personnel	1															Renamed to Jean Hajar
+Fissure Research	renamed	renamed	S	Y	1S170	Mission	0	S														Renamed to Forcas Sector Fissure Research
+Fissure Research (Promo)	renamed	renamed	S	Y	1S170	Mission	0	S														Renamed to Forcas Sector Fissure Research (Promo)
+Explore Extradimensional World	renamed	renamed	V	Y	17V046	Mission	0	P														Renamed to Meridian Explore Extradimensional World

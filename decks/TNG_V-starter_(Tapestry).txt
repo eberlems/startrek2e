@@ -57,6 +57,6 @@ Dilemmas:
 Missions:
 1	Earth Cradle of the Federation
 1	Explore Black Cluster
-1	Fissure Research
+1	Forcas Sector Fissure Research
 1	Lapideas System Geological Survey
 1	Avert Danger

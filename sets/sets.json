@@ -394,5 +394,11 @@
     "name": "Second Chances",
     "code": "SC",
     "virtual": true
+  },
+  {
+    "id": "247",
+    "name": "Continuing Mission",
+    "code": "CM",
+    "virtual": true
   }
 ]

@@ -91,5 +91,6 @@
 	<set>SS</set>
 	<set>Tl</set>
 	<set>SC</set>
+	<set>CM</set>
 </format>
 </formatdefinitions>

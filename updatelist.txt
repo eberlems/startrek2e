@@ -1,13 +1,13 @@
-startrek2e	12-10-23
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36169
+startrek2e	02-20-24
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	36594
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	186865
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	114612
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1152692
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	52691072
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49238668
-plugins/startrek2e/sets/Renamed_cards.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Renamed_cards.txt	412258
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1198308
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	52864666
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49242877
+plugins/startrek2e/sets/Renamed_cards.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Renamed_cards.txt	441050
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-data1.jpg	2347
 plugins/startrek2e/av-st-data2.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-data2.jpg	4419
@@ -21,8 +21,8 @@ plugins/startrek2e/bot.jpg	https://raw.githubusercontent.com/eberlems/startrek2e
 plugins/startrek2e/decks/Bajoran_V-starter_(Return_to_Grace).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Bajoran_V-starter_(Return_to_Grace).txt	93849
 plugins/startrek2e/decks/Borg_V-starter_(Extreme_Measures)_V2.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Borg_V-starter_(Extreme_Measures)_V2.txt	99133
 plugins/startrek2e/decks/Cardassian_V-starter_(Tacking_Into_the_Wind).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Cardassian_V-starter_(Tacking_Into_the_Wind).txt	84151
-plugins/startrek2e/decks/Dominion_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Dominion_V-starter_(Extreme_Measures).txt	98472
-plugins/startrek2e/decks/DS9_V-starter_(Unity)_V2.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/DS9_V-starter_(Unity)_V2.txt	103895
+plugins/startrek2e/decks/Dominion_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Dominion_V-starter_(Extreme_Measures).txt	99766
+plugins/startrek2e/decks/DS9_V-starter_(Unity)_V2.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/DS9_V-starter_(Unity)_V2.txt	104736
 plugins/startrek2e/decks/DS9E_V-starter_(Balance_of_Terror).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/DS9E_V-starter_(Balance_of_Terror).txt	114547
 plugins/startrek2e/decks/Equinox_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Equinox_V-starter_(Extreme_Measures).txt	113696
 plugins/startrek2e/decks/Ferengi_V-starter_(Unity).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Ferengi_V-starter_(Unity).txt	100679
@@ -32,7 +32,7 @@ plugins/startrek2e/decks/Romulan_V-starter_(Tapestry).txt	https://raw.githubuser
 plugins/startrek2e/decks/Starfleet_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Starfleet_V-starter_(Extreme_Measures).txt	117785
 plugins/startrek2e/decks/Terok_Nor_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Terok_Nor_V-starter_(Extreme_Measures).txt	83196
 plugins/startrek2e/decks/TNG_V-starter_(Matter_of_Time).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/TNG_V-starter_(Matter_of_Time).txt	106842
-plugins/startrek2e/decks/TNG_V-starter_(Tapestry).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/TNG_V-starter_(Tapestry).txt	98909
+plugins/startrek2e/decks/TNG_V-starter_(Tapestry).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/TNG_V-starter_(Tapestry).txt	100203
 plugins/startrek2e/decks/TOS_V-starter_(Extreme_Measures).txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/TOS_V-starter_(Extreme_Measures).txt	102979
 plugins/startrek2e/decks/Romulan_Excelsior-starter_v1.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Romulan_Excelsior-starter_v1.txt	106281
 plugins/startrek2e/decks/Klingon_Excelsior-starter_v1.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/decks/Klingon_Excelsior-starter_v1.txt	100456
@@ -74,7 +74,7 @@ plugins/startrek2e/packs/16-FTB.jpg	https://raw.githubusercontent.com/eberlems/s
 plugins/startrek2e/packs/17-RTS.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/17-RTS.jpg	922
 plugins/startrek2e/packs/18-TSOP.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/18-TSOP.jpg	-8278
 plugins/startrek2e/packs/packdefinitions1.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions1.xml	857360
-plugins/startrek2e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions2.xml	4438799
+plugins/startrek2e/packs/packdefinitions2.xml	https://raw.githubusercontent.com/eberlems/startrek2e/playable/packs/packdefinitions2.xml	4442903
 plugins/startrek2e/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/CardMissing.jpg	177461
 plugins/startrek2e/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/Spawned.jpg	163676
 plugins/startrek2e/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/setimages/general/cardback.jpg	179863
