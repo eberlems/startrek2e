@@ -889,3 +889,29 @@ Updated
 -Fissure Research
 -Fissure Research (Promo)
 -Explore Extradimensional World
+
+3.1.8 (03-10-24)
+(Eberlems)
+NEW
+-Continuing Mission
+
+Updated
+-Professor Honey Bare, Way Too Smart for You *VP
+-Beverly Crusher, Chief Physician *VP
+-Data, Pinocchio *VP
+-Deanna Troi, Guide and Conscience *VP
+-Geordi La Forge, Chief Engineer *VP
+-Guinan, Listener *VP
+-Jean-Luc Picard, Starship Captain **VP
+-William T. Riker, Number One *VP
+-Worf, Chief of Security **VP
+-U.S.S. Enterprise-D, Federation Flagship *VP
+-Distress Call *VP
+-Intoxicating Spirits *VP
+-Military Assault Command Operations *VP
+-Prejudice and Politics *VP
+-Natural Instincts *VP
+-Remus, Supervise Dilithium Mine *VP
+-Elim Garak, Crafty Underling *VP
+-Revised Janeway, Cold-Blooded Killer *VP
+-B'Etor, Romulan Conspirator *VP
