@@ -65,8 +65,8 @@ Dilemmas:
 1	Old Differences
 1	Rogue Borg Ambush
 Missions:
-1	Battle Reconnaissance
-1	Hunt Alien
+1	Adelaar System Battle Reconnaissance
+1	Akusei Belt Hunt Alien
 1	Alpha 5 Approach Transport Crash Survivor
 1	Unicomplex Root of the Hive Mind
 1	Axiana Secure Colony

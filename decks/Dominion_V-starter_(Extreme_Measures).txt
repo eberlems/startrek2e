@@ -55,8 +55,8 @@ Dilemmas:
 1	One Step Ahead
 1	The Launching
 Missions:
-1	Explore Black Cluster
-1	Feldomite Rush
+1	Sector 97 Explore Black Cluster
+1	Parsion III Feldomite Rush
 1	Forcas Sector Fissure Research
 1	Plot Invasion
 1	Founders' Homeworld Home of the Great Link

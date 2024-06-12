@@ -566,7 +566,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Explore Black Cluster</data>
+                    <data>Sector 97 Explore Black Cluster</data>
                 </crit>
             </kind>
             <kind>
@@ -1854,7 +1854,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Battle Reconnaissance</data>
+                    <data>Adelaar System Battle Reconnaissance</data>
                 </crit>
             </kind>
             <kind>
@@ -1862,7 +1862,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Hunt Alien</data>
+                    <data>Akusei Belt Hunt Alien</data>
                 </crit>
             </kind>
             <kind>

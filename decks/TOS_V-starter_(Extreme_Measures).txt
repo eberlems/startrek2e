@@ -55,7 +55,7 @@ Dilemmas:
 1	One Step Ahead
 1	The Launching
 Missions:
-1	Explore Black Cluster
+1	Sector 97 Explore Black Cluster
 1	Runabout Search
 1	Avert Danger
 1	Evade Borg Vessel

@@ -57,6 +57,6 @@ Dilemmas:
 Missions:
 1	Second Moon of Bajor VIII Acquire Illicit Explosives
 1	Cardassia Prime Hardscrabble World
-1	Collect Sample
+1	Satvintri Cloud Collect Sample
 1	Lapideas System Geological Survey
 1	Near Polaris Survey New World

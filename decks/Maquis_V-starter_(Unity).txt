@@ -55,7 +55,7 @@ Dilemmas:
 1	Sudden Stealth
 1	Infatuation
 Missions:
-1	Evacuate Colony
+1	Dorvan V Evacuate Colony
 1	Intercept Maquis
 1	Athos IV Maquis Base
 1	Investigate Maquis Activity

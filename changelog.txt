@@ -915,3 +915,25 @@ Updated
 -Elim Garak, Crafty Underling *VP
 -Revised Janeway, Cold-Blooded Killer *VP
 -B'Etor, Romulan Conspirator *VP
+
+3.1.9 (06-12-24)
+(Eberlems)
+Updated
+-Collect Sample
+-Colony Preparations
+-Cure Blight
+-Deliver Supplies
+-Evacuate Colony
+-Excavation
+-Explore Black Cluster
+-Explore Black Cluster (Promo)
+-Extraction
+-Feldomite Rush
+-Feldomite Rush (Promo)
+-Battle Reconnaissance
+-Hunt Alien
+-Observe Kazon Ritual
+-Leeta Union Member
+-Kira Nerys Starfleet Emissary
+-Kruge Instinctive Commander
+-Deanna Troi Major Rakal

@@ -45,3 +45,16 @@ Jean Hejar Nova Squadron Navigator	renamed	renamed	C	Y	8C073	Personnel	1								
 Fissure Research	renamed	renamed	S	Y	1S170	Mission	0	S														Renamed to Forcas Sector Fissure Research
 Fissure Research (Promo)	renamed	renamed	S	Y	1S170	Mission	0	S														Renamed to Forcas Sector Fissure Research (Promo)
 Explore Extradimensional World	renamed	renamed	V	Y	17V046	Mission	0	P														Renamed to Meridian Explore Extradimensional World
+Collect Sample	SE	ST2E-EN01157	U	Y	1U157	Mission	0	S														Renamed to Satvintri Cloud Collect Sample
+Colony Preparations	SE	ST2E-EN01158	U	Y	1U158	Mission	0	P														Renamed to Saltah'na Colony Preparations
+Cure Blight	SE	ST2E-EN01159	U	Y	1U159	Mission	0	P														Renamed to Teplan Prime Cure Blight
+Deliver Supplies	SE	ST2E-EN01160	U	Y	1U160	Mission	0	P														Renamed to Dreon VII Deliver Supplies
+Evacuate Colony	SE	ST2E-EN01165	U	Y	1U165	Mission	0	P														Renamed to Dorvan V Evacuate Colony
+Explore Black Cluster	SE	ST2E-EN01167ab	S	Y	1S167	Mission	0	S														Renamed to Sector 97 Explore Black Cluster
+Explore Black Cluster (Promo)	Promo	ST2E-EN0D009	D	Y	0D009	Mission	0	S														Renamed to Sector 97 Explore Black Cluster (Promo)
+Extraction	SE	ST2E-EN01168	U	Y	1U168	Mission	0	P														Renamed to Cerberus II Extraction
+Feldomite Rush	SE	ST2E-EN01169ab	U	Y	1U169	Mission	0	P														Renamed to Parsion III Feldomite Rush
+Feldomite Rush (Promo)	Promo	ST2E-EN0D010	D	Y	0D010	Mission	0	P														Renamed to Parsion III Feldomite Rush (Promo)
+Battle Reconnaissance	CA	ST2E-EN03083	S	Y	3S083	Mission	0	S														Renamed to Adelaar System Battle Reconnaissance
+Hunt Alien	CA	ST2E-EN03094	S	Y	3S094	Mission	0	P														Renamed to Akusei Belt Hunt Alien
+Observe Kazon Ritual	CL	st2e-en10051	U	Y	10U051	Mission	0	P														Renamed to Tarok Observe Kazon Ritual

@@ -58,5 +58,5 @@ Missions:
 1	Ferenginar Financial Hub
 1	Elude Federation Forces
 1	Purchase Moon
-1	Feldomite Rush
+1	Parsion III Feldomite Rush
 1	Investigate Rogue Comet
