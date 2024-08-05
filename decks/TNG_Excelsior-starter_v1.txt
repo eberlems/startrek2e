@@ -56,6 +56,6 @@ Dilemmas:
 Missions:	
 1	Earth Cradle of the Federation
 1	Agricultural Assessment
-1	Surgery Under Fire
+1	Ajilon Prime Surgery Under Fire
 1	Evaluate Soliton Wave
 1	Starbase 718 Investigate Cryosatellite

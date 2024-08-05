@@ -55,8 +55,8 @@ Dilemmas:
 1	The Big Goodbye
 1	Intimidation
 Missions:
-1	Investigate Rogue Comet
+1	Sector 1156 Investigate Rogue Comet
 1	Khitomer Khitomer Investigation
 1	Romulus Seat of Power
-1	Sensitive Search
+1	Nequencia System Sensitive Search
 1	Conceal Unlikely Society

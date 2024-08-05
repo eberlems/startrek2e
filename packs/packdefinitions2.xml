@@ -256,7 +256,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Security Briefing</data>
+                    <data>Korma Security Briefing</data>
                 </crit>
             </kind>
             <kind>
@@ -272,7 +272,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Mining Survey</data>
+                    <data>Trivas System Mining Survey</data>
                 </crit>
             </kind>
             <kind>
@@ -280,7 +280,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Search for Survivors</data>
+                    <data>Dozaria Search for Survivors</data>
                 </crit>
             </kind>
             <kind>
@@ -558,7 +558,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Study Cometary Cloud</data>
+                    <data>Cruses System Study Cometary Cloud</data>
                 </crit>
             </kind>
             <kind>
@@ -582,7 +582,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Sensitive Search</data>
+                    <data>Nequencia System Sensitive Search</data>
                 </crit>
             </kind>
             <kind>
@@ -868,7 +868,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Surgery Under Fire</data>
+                    <data>Ajilon Prime Surgery Under Fire</data>
                 </crit>
             </kind>
             <kind>
@@ -884,7 +884,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Host Metaphasic Shielding Test</data>
+                    <data>Vaytan Host Metaphasic Shielding Test</data>
                 </crit>
             </kind>
             <kind>
@@ -892,7 +892,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Intercept Renegade</data>
+                    <data>Orias Security Cordon Intercept Renegade</data>
                 </crit>
             </kind>
             <kind>
@@ -1226,7 +1226,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Investigate Coup</data>
+                    <data>Tzenketh Investigate Coup</data>
                 </crit>
             </kind>
             <kind>
@@ -1234,7 +1234,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Investigate Rogue Comet</data>
+                    <data>Sector 1156 Investigate Rogue Comet</data>
                 </crit>
             </kind>
             <kind>

@@ -55,7 +55,7 @@ Dilemmas:
 1	The Launching
 1	Infatuation
 Missions:
-1	Investigate Rumors
+1	Chamra Vortex Investigate Rumors
 1	Mouth of the Wormhole Deep Space 9
 1	Camping Trip
 1	Survey Star System

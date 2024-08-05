@@ -937,3 +937,47 @@ Updated
 -Kira Nerys Starfleet Emissary
 -Kruge Instinctive Commander
 -Deanna Troi Major Rakal
+
+3.2.0 (08-04-24)
+(Eberlems)
+NEW
+-Phage
+Updated
+-Beltane IX Cargo Rendezvous
+-Deneb IV Encounter at Farpoint
+-Deneb IV Encounter at Farpoint *VP
+-Host Metaphasic Shielding Test, 1 S 172 now Vaytan Host Metaphasic Shielding Test
+-Hunt for DNA Program, 1 U 173 now Vilmor II Hunt for DNA Program
+-Iconia Investigation, 1 U 174 now Iconia Iconia Investigation
+-Intercept Maquis, 1 U 175 now Bryma System Intercept Maquis
+-Intercept Renegade, 1 S 176 now Orias Security Cordon Intercept Renegade
+-Investigate Alien Probe, 1 U 177, 0 P 77 now Parvenium System Investigate Alien Probe
+-Investigate Coup, 1 S 178 now Tzenketh Investigate Coup
+-Investigate Massacre, 1 U 179, 0 D 12 now Tarod IX Investigate Massacre
+-Investigate Rogue Comet, 1 S 180 now Sector 1156 Investigate Rogue Comet
+-Investigate Rumors, 1 U 181 now Chamra Vortex Investigate Rumors
+-Investigate Sighting, 1 U 182 now Beta Stromgren Investigate Sighting
+-Medical Relief, 1 U 185 now Beta Lankal Medical Relief
+-Military Exercises, 1 U 186 now Oneamisu Sector Military Exercises
+-Mining Survey, 1 S 187 now Trivas System Mining Survey
+-Pegasus Search, 1 U 189 now Devolin System Pegasus Search
+-Plague Planet, 1 U 190 now Tarella Plague Planet
+-Qualor II Rendezvous, 1 U 192 now Qualor II Qualor II Rendezvous
+-Quest for the Sword of Kahless, 1 U 193 now Hur'q Quest for the Sword of Kahless
+-Runabout Search, 1 U 196 now Lambda Oros Runabout Search
+-Search and Rescue, 1 U 197 now Aramis VI Search and Rescue
+-Search for Survivors, 1 S 198 now Dozaria Search for Survivors
+-Security Briefing, 1 S 199 now Korma Security Briefing
+-Sensitive Search, 1 S 200 now Nequencia System Sensitive Search
+-Study Cometary Cloud,1 S 201 now Cruses System Study Cometary Cloud
+-Surgery Under Fire, 1 S 203 now Ajilon Prime Surgery Under Fire
+-Uncover DNA Clues, 1 U 204 now Ruah IV Uncover DNA Clues
+-No Peace In Our Time
+-No Peace In Our Time *VP
+-Natural Instincts
+-Preposterous Plan
+-The Central Command
+-The Central Command *VP
+-Elim Garak Crafty Underling
+-Elim Garak Crafty Underling *VP
+-Revised Janeway Cold-Blooded Killer *VP

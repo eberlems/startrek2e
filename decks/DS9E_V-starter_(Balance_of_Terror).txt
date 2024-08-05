@@ -56,7 +56,7 @@ Dilemmas:
 1	Frozen by Fear
 Missions:
 1	Earth Home of Starfleet Command
-1	Intercept Maquis
-1	Intercept Renegade
-1	Surgery Under Fire
+1	Bryma System Intercept Maquis
+1	Orias Security Cordon Intercept Renegade
+1	Ajilon Prime Surgery Under Fire
 1	Advanced Combat Training
