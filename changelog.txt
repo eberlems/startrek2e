@@ -981,3 +981,19 @@ Updated
 -Elim Garak Crafty Underling
 -Elim Garak Crafty Underling *VP
 -Revised Janeway Cold-Blooded Killer *VP
+
+3.2.2 (11-10-24)
+(Eberlems)
+NEW
+-William T. Riker First Officer *VP
+-Outmatched *VP
+-Sirna Kolrami
+Updated
+-Field Studies
+-Field Studies (R2)
+-Field Studies *VP
+-Reprimand
+-Standard Punishment
+-The Central Command
+-Varria Corona Defeat Rogue Borg Vessel
+-Varria Corona Defeat Rogue Borg Vessel *VP
