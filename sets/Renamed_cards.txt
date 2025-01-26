@@ -58,3 +58,4 @@ Feldomite Rush (Promo)	Promo	ST2E-EN0D010	D	Y	0D010	Mission	0	P														Ren
 Battle Reconnaissance	CA	ST2E-EN03083	S	Y	3S083	Mission	0	S														Renamed to Adelaar System Battle Reconnaissance
 Hunt Alien	CA	ST2E-EN03094	S	Y	3S094	Mission	0	P														Renamed to Akusei Belt Hunt Alien
 Observe Kazon Ritual	CL	st2e-en10051	U	Y	10U051	Mission	0	P														Renamed to Tarok Observe Kazon Ritual
+Investigate Unknown Element	CL	st2e-en10051	U	Y	10U051	Mission	0	P														Renamed to Vhnori Graveyard Investigate Unknown Element

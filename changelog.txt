@@ -997,3 +997,18 @@ Updated
 -The Central Command
 -Varria Corona Defeat Rogue Borg Vessel
 -Varria Corona Defeat Rogue Borg Vessel *VP
+
+3.2.3 (01-26-25)
+(Eberlems)
+NEW
+-Finding Our Way
+Updated
+-Borg Queen Guardian of the Hive
+-Regeneration Alcoves
+-Investigate Unknown Element
+-Learning Curve
+-Night Terrors
+-Borg Queen Guardian of the Hive (R2)
+-Conflict
+-Varria Corona Defeat Rogue Borg Vessel
+-Varria Corona Defeat Rogue Borg Vessel *VP

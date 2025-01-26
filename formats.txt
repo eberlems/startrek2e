@@ -93,5 +93,6 @@
 	<set>SC</set>
 	<set>CM</set>
 	<set>Ph</set>
+	<set>FOW</set>
 </format>
 </formatdefinitions>
