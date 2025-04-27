@@ -94,5 +94,6 @@
 	<set>CM</set>
 	<set>Ph</set>
 	<set>FOW</set>
+	<set>RoF</set>
 </format>
 </formatdefinitions>

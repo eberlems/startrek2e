@@ -1012,3 +1012,34 @@ Updated
 -Conflict
 -Varria Corona Defeat Rogue Borg Vessel
 -Varria Corona Defeat Rogue Borg Vessel *VP
+
+3.2.4 (04-27-25)
+(Eberlems)
+NEW
+-AP25
+-Realm of Fear
+-Dathon Speaker of Tama *VP
+-Far-Seeing Eyes *VP
+-Iconia Iconia Investigation *VP
+-Intimidation *VP
+-Reprogrammed *VP
+Updated
+-Clark Terrell Reliant Captain
+-Hikaru Sulu, Cunning Tactician
+-Igrilan Kor
+-John Harriman Captain of the Enterprise
+-Lance Cartwright Co-Conspirator
+-S'rrel
+-S'rrel *VP
+-Saavik Protegee
+-Spock Trainee Instructor
+-Spock Transtemporal Truth-Teller
+-Spock Transtemporal Truth-Teller *VP
+-St. John Talbot Embittered Consul
+-Valeris Co-Conspirator
+-Valeris Faithless Protegee
+-I.K.S. Qel'Poh H.M.S. Bounty
+-I.K.S. Qel'Poh H.M.S. Bounty *A
+-Starship Excelsior Deserved Captaincy
+-U.S.S. Enterprise-A Olive Branch
+-U.S.S. Enterprise-B Ill-Prepared Successor

@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250126</lastupdateYYMMDD>
+<lastupdateYYMMDD>250427</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Finding Our Way https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>April Errata, AP25 VPs and Realm of Fear https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

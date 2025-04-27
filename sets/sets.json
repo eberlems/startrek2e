@@ -412,5 +412,11 @@
     "name": "Finding Our Way",
     "code": "FOW",
     "virtual": true
+  },
+  {
+    "id": "255",
+    "name": "Realm of Fear",
+    "code": "RoF",
+    "virtual": true
   }
 ]
