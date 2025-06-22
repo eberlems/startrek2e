@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250427</lastupdateYYMMDD>
+<lastupdateYYMMDD>250622</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>April Errata, AP25 VPs and Realm of Fear https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>June Errata https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

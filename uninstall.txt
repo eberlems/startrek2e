@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>250426</dateYYMMDD>
+<dateYYMMDD>250621</dateYYMMDD>
 <removepath>sets/Reflection_2_0_reprints.txt</removepath>
 <removepath>sets/Excelsior.txt</removepath>
 <removepath>sets/Excelsior11.txt</removepath>
@@ -118,4 +118,6 @@
 <removepath>sets/setimages/general/STVE-EN51009.jpg</removepath>
 <removepath>sets/setimages/general/STVE-EN51011.jpg</removepath>
 <removepath>sets/setimages/general/STVE-EN53025.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN51011a.jpg</removepath>
+<removepath>sets/setimages/general/STVP-EN318a.jpg</removepath>
 </uninstall>

@@ -1,12 +1,12 @@
-startrek2e	01-26-25
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	38057
+startrek2e	06-22-25
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt	35788
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/defaultchat.txt	25474
-plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	690013
+plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/uninstall.txt	701863
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/formats.txt	119295
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1581330
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	58020867
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49296267
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt	1628804
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Virtual.txt	58846051
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Physical.txt	49313494
 plugins/startrek2e/sets/Renamed_cards.txt	https://raw.githubusercontent.com/eberlems/startrek2e/playable/sets/Renamed_cards.txt	552844
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	https://raw.githubusercontent.com/eberlems/startrek2e/playable/av-st-data1.jpg	2347
