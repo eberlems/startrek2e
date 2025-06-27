@@ -58,5 +58,5 @@ Missions:
 1	Chamra Vortex Investigate Rumors
 1	Mouth of the Wormhole Deep Space 9
 1	Camping Trip
-1	Survey Star System
+1	Idran System Survey Star System
 1	Meridian Explore Extradimensional World

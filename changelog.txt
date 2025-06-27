@@ -1071,3 +1071,8 @@ Updated
 -Malcolm Reed Weapons Expert
 -Spock Transtemporal Truth-Teller
 -Spock Transtemporal Truth-Teller *VP
+
+3.2.5a (06-27-25)
+(Eberlems)
+Updated
+-mission names in decks and packs

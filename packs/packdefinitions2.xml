@@ -1838,7 +1838,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Salvage Borg Ship</data>
+                    <data>Argolisian Moon Salvage Borg Ship</data>
                 </crit>
             </kind>
             <kind>
@@ -1846,7 +1846,7 @@
                 <crit>
                     <field>Name</field>
                     <eval>IS</eval>
-                    <data>Assault on Species 8472</data>
+                    <data>Fluidic Space Assault on Species 8472</data>
                 </crit>
             </kind>
             <kind>

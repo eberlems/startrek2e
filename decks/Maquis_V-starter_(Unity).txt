@@ -58,5 +58,5 @@ Missions:
 1	Dorvan V Evacuate Colony
 1	Bryma System Intercept Maquis
 1	Athos IV Maquis Base
-1	Investigate Maquis Activity
+1	Volan III Investigate Maquis Activity
 1	Elude Federation Forces

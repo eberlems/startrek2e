@@ -55,7 +55,7 @@ Dilemmas:
 1	Family
 1	Just Following Orders
 Missions:
-1	Assault on Species 8472
+1	Fluidic Space Assault on Species 8472
 1	Caretaker's Array
 1	Obtain Advanced Technology
 1	Inversion Mystery

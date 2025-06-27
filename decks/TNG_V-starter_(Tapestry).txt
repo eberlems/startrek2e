@@ -59,4 +59,4 @@ Missions:
 1	Sector 97 Explore Black Cluster
 1	Forcas Sector Fissure Research
 1	Lapideas System Geological Survey
-1	Avert Danger
+1	Moab IV Avert Danger

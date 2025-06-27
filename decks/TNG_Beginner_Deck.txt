@@ -66,7 +66,7 @@ Dilemmas:
 1	Rogue Borg Ambush
 Missions:
 1	Lapideas System Geological Survey
-1	Avert Danger
+1	Moab IV Avert Danger
 1	Earth Cradle of the Federation
 1	Alpha 5 Approach Transport Crash Survivor
 1	Sector 39-J Investigate Annihilation

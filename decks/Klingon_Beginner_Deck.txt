@@ -66,7 +66,7 @@ Dilemmas:
 1	Rogue Borg Ambush
 Missions:
 1	Cardassia IV Rescue Prisoners
-1	Brute Force
+1	Valt Minor Brute Force
 1	Crensen Gap Protect the Escapees
 1	Provoke Interstellar Incident
 1	Qo'noS Heart of the Empire

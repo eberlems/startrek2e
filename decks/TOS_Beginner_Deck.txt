@@ -65,7 +65,7 @@ Dilemmas:
 1	Old Differences
 1	Rogue Borg Ambush
 Missions:
-1	Advanced Battle Simulation
+1	Braslota Advanced Battle Simulation
 1	Organia Secure Strategic Base
 1	Rigel X Locate Mysterious Contact
 1	Starbase 718 Investigate Cryosatellite
