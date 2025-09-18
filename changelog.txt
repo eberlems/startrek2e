@@ -1076,3 +1076,9 @@ Updated
 (Eberlems)
 Updated
 -mission names in decks and packs
+
+3.2.6 (09-18-25)
+(Eberlems)
+Updated
+-Borderless cards
+-VPs

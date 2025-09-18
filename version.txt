@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250627</lastupdateYYMMDD>
+<lastupdateYYMMDD>250918</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Mission corrections https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Borderless cards and VPs https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

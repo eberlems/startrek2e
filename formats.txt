@@ -95,5 +95,6 @@
 	<set>Ph</set>
 	<set>FOW</set>
 	<set>RoF</set>
+	<set>WNOHGB</set>
 </format>
 </formatdefinitions>
