@@ -61,6 +61,6 @@ Dilemmas:
 Missions:
 1	Earth Cradle of the Federation
 1	Chintoka Binary Pair Clash at Chin'toka
-1	Obtain Vaccine
+1	Ligon II Obtain Vaccine
 1	Practice Orbital Maneuvers
 1	Ba'ku Planet Safeguard Civilization

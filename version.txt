@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250918</lastupdateYYMMDD>
+<lastupdateYYMMDD>251214</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Borderless cards and VPs https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Tournamant Promo Series XXV, December Errata https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

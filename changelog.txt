@@ -987,7 +987,7 @@ Updated
 NEW
 -William T. Riker First Officer *VP
 -Outmatched *VP
--Sirna Kolrami
+-Sirna Kolrami Famed Strategist *VP
 Updated
 -Field Studies
 -Field Studies (R2)
@@ -1082,3 +1082,60 @@ Updated
 Updated
 -Borderless cards
 -VPs
+
+3.2.7 (12-14-25)
+(Eberlems)
+NEW
+-The Will of the Collective *VP
+-Borath Psychological Researcher *VP
+-Jean-Luc Picard Battleship Captain *VP
+-Leonard H. McCoy Chief Medical Officer *VP
+-Jadzia Dax Sworn Ally *VP
+-Brull Encampment Leader *VP
+-Vic Fontaine Vegas Crooner *VP
+-Williams Starfleet Commander *VP
+-Galor *VP
+Updated
+-Misdirection *VP
+-Professor Honey Bare Way Too Smart for You *VP
+-The Will of the Collective
+-Williams Starfleet Commander
+-Jean-Luc Picard Battleship Captain
+-For the Cause
+-Kappa Dendron Camping Trip
+-Grid 986 Destroy Transwarp Hub
+-Paulson Nebula Evade Borg Vessel
+-Olmerak System Captive Pursuit
+-Ty'Gokor Expose Changeling Influence
+-Soukara Extract Defector
+-Gelyan Moon Harness Omega Particle
+-Unimatrix 325 Instruct Advanced Drone
+-Tirapet Expanse Peaceful Contact
+-Coridan Plot Invasion
+-Farius Prime Political Intrigue
+-Internment Camp 371 Rescue Prisoners of War
+-Facility 345-447 Restock Ketracel-White
+-Torga IV Salvage Dominion Ship
+-Rogue Planet Approach Stage Bombardment
+-Compression Anomaly 614 Study Rare Phenomenon
+-AR-558 The Siege of AR-558
+-Expand the Collective
+-Transwarp Conduit
+-Ligon II Obtain Vaccine
+-Crensen Gap Protect the Escapees
+-Sector 003 Assist Cloaked Ship
+-Rura Penthe Escape Gulag
+-Draylax System Investigate Stalled Ship
+-Banea Investigate Alleged Murder
+-Argolis Periphery Navigate Argolis Cluster
+-Are You Offering Me ... a Bribe?
+-Ceti Alpha V Find Lifeless World
+-Javert Maquis Flagship
+-Gather Information
+-Identify Temporal Disturbance
+-At an Impasse
+-U.S.S. Enterprise-J
+-U.S.S. Enterprise-J *A
+-U.S.S. Enterprise-J *VP
+-Varria Corona Defeat Rogue Borg Vessel
+-Varria Corona Defeat Rogue Borg Vessel *VP

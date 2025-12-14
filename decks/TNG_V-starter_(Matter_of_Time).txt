@@ -59,4 +59,4 @@ Missions:
 1	Lapideas System Geological Survey
 1	Moab IV Avert Danger
 1	Automated Repair Station
-1	Identify Temporal Disturbance
+1	Near Starbase 105 Identify Temporal Disturbance

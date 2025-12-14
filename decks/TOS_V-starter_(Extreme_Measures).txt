@@ -58,5 +58,5 @@ Missions:
 1	Sector 97 Explore Black Cluster
 1	Lambda Oros Runabout Search
 1	Moab IV Avert Danger
-1	Evade Borg Vessel
+1	Paulson Nebula Evade Borg Vessel
 1	Earth Lush and Beautiful Home

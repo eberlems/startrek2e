@@ -68,5 +68,5 @@ Missions:
 1	Risan Approach Abduction Plot
 1	Cardassia Prime Hardscrabble World
 1	Orias Security Cordon Intercept Renegade
-1	Extract Defector
+1	Soukara Extract Defector
 1	Commandeer Prototype

@@ -72,3 +72,26 @@ Salvage Borg Ship	renamed	renamed	S	Y	3S103	Mission	0	P														Renamed to 
 Survey Star System	renamed	renamed	S	Y	3S108	Mission	0	S														Renamed to Idran System Survey Star System
 Clash at Chin'toka	renamed	renamed	U	Y	3U085	Mission	0	S														Renamed to Chintoka Binary Pair Clash at Chin'toka
 Investigate Maquis Activity (Promo)	renamed	renamed	D	Y	0D011	Mission	0	P														Renamed to Volan III Investigate Maquis Activity (Promo)
+Camping Trip	renamed	renamed	U	Y	3U084	Mission	0	P														Renamed to Kappa Dendron Camping Trip
+Destroy Transwarp Hub	renamed	renamed	U	Y	3U087	Mission	0	S														Renamed to Grid 986 Destroy Transwarp Hub
+Evade Borg Vessel	renamed	renamed	U	Y	3U088	Mission	0	S														Renamed to Paulson Nebula Evade Borg Vessel
+Evade Dominion Squadron	renamed	renamed	U	Y	3U089	Mission	0	S														Renamed to Olmerak System Captive Pursuit
+Expose Changeling Influence	renamed	renamed	U	Y	3U090	Mission	0	P														Renamed to Ty'Gokor Expose Changeling Influence
+Extract Defector	renamed	renamed	U	Y	3U091	Mission	0	P														Renamed to Soukara Extract Defector
+Harness Omega Particle	renamed	renamed	U	Y	3U093	Mission	0	P														Renamed to Gelyan Moon Harness Omega Particle
+Instruct Advanced Drone	renamed	renamed	U	Y	3U095	Mission	0	S														Renamed to Unimatrix 325 Instruct Advanced Drone
+Peaceful Contact	renamed	renamed	U	Y	3U098	Mission	0	S														Renamed to Tirapet Expanse Peaceful Contact
+Plot Invasion	renamed	renamed	U	Y	3U099	Mission	0	P														Renamed to Coridan Plot Invasion
+Rescue Prisoners of War	renamed	renamed	S	Y	3S101	Mission	0	S														Renamed to Internment Camp 371 Rescue Prisoners of War
+Restock Ketracel-White	renamed	renamed	U	Y	3U102	Mission	0	S														Renamed to Facility 345-447 Restock Ketracel-White
+Stage Bombardment	renamed	renamed	U	Y	3U106	Mission	0	S														Renamed to Rogue Planet Approach Stage Bombardment
+Study Rare Phenomenon	renamed	renamed	U	Y	3U107	Mission	0	S														Renamed to Compression Anomaly 614 Study Rare Phenomenon
+The Siege of AR-558	renamed	renamed	U	Y	3U109	Mission	0	P														Renamed to AR-558 The Siege of AR-558
+Obtain Vaccine	renamed	renamed	U	Y	7U050	Mission	0	P														Renamed to Ligon II Obtain Vaccine
+Escape Gulag	renamed	renamed	U	Y	8U056	Mission	0	P														Renamed to Rura Penthe Escape Gulag
+Assist Cloaked Ship	renamed	renamed	U	Y	8U052	Mission	0	S														Renamed to Sector 003 Assist Cloaked Ship
+Investigate Stalled Ship	renamed	renamed	U	Y	8U057	Mission	0	S														Renamed to Draylax System Investigate Stalled Ship
+Investigate Alleged Murder	renamed	renamed	U	Y	10U049	Mission	0	P														Renamed to Banea Investigate Alleged Murder
+Navigate Argolis Cluster	renamed	renamed	U	Y	12U041	Mission	0	S														Renamed to Argolis Periphery Navigate Argolis Cluster
+Gather Information	renamed	renamed	V	Y	26V023	Mission	0	P														Renamed to Dessica II Gather Information
+Identify Temporal Disturbance	renamed	renamed	V	Y	28V021	Mission	0	S														Renamed to Near Starbase 105 Identify Temporal Disturbance
