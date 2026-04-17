@@ -1139,3 +1139,35 @@ Updated
 -U.S.S. Enterprise-J *VP
 -Varria Corona Defeat Rogue Borg Vessel
 -Varria Corona Defeat Rogue Borg Vessel *VP
+
+3.2.7 (04-17-26)
+(Eberlems)
+NEW
+-Beta Stromgren Investigate Sighting *VP
+-Counterinsurgency Program *VP
+-Quintessence *VP
+-Kadis-kot *VP
+-Gorgan *VP
+-New Face
+-Starfleet Type-2 Phaser *VP
+-Precise Attack *VP
+-Intersystem Tachyon Eddies Trace Legendary Journey
+-Ocett Dogged Rival *VP
+-Benjamin Sisko Bold Captain *VP
+-Nel Apgar Temperamental Researcher *VP
+-D'deridex Advanced *VP
+Updated
+-Reflections *VP
+-Leeta Union Member *VP
+-Tulaberry Merchant *VP
+-Nerys Starfleet Emissary *VP
+-Nine Undercover Operative *VP
+-Lwaxana Troi Telepathic Asset *VP
+-Kruge Instinctive Commander *VP
+-Persis Loyal Daughter *VP
+-Troi Major Rakal *VP
+-Speaker of Tama *VP
+-Seeing Eyes *VP
+-Iconia Iconia Investigation *VP
+-Intimidation *VP
+-James T. Kirk Cold Warrior *VP
