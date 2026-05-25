@@ -6,7 +6,7 @@ HOWTO update
 
 branch the repo branch playable
 
-get new card data from [https://www.trekcc.org/lackey2020/](https://www.trekcc.org/lackey/2020.php)
+get new card data from [https://www.trekcc.org/lackey/2020.php](https://www.trekcc.org/lackey/2020.php)
 
 replace the [sets/Virtual.txt](sets/Virtual.txt) and [sets/Physical.txt](sets/Physical.txt) with the new data.
 place new images in sets/setimages/general/ as 357x499px jpg

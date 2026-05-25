@@ -1171,3 +1171,15 @@ Updated
 -Iconia Iconia Investigation *VP
 -Intimidation *VP
 -James T. Kirk Cold Warrior *VP
+
+3.2.8 (05-25-26)
+(Eberlems)
+NEW
+-Equipment Malfunction *VP
+-Parallel Romance *VP
+-Bajoran Gratitude Festival *VP
+-Internment Camp 371 Rescue Prisoners of War *VP
+-Li Nalas Legend of Bajor *VP
+-Selar Frontier Physician
+-K'Vada Covert Escort
+-Grathon Tolar Hologram Forger *VP
