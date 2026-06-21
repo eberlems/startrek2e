@@ -55,7 +55,7 @@ Dilemmas:
 1	Warp Bubble Mishap
 Missions:
 1	Qo'noS Heart of the Empire
-1	Advanced Combat Training
+1	Levinius V Advanced Combat Training
 1	Valt Minor Brute Force
 1	Bratslota Advanced Battle Simulation
 1	Kavis Alpha Research Binary Star	

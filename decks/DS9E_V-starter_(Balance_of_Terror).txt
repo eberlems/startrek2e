@@ -59,4 +59,4 @@ Missions:
 1	Bryma System Intercept Maquis
 1	Orias Security Cordon Intercept Renegade
 1	Ajilon Prime Surgery Under Fire
-1	Advanced Combat Training
+1	Levinius V Advanced Combat Training

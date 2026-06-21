@@ -56,7 +56,7 @@ Dilemmas:
 1	The Launching
 Missions:
 1	Earth Humanity's Home
-1	Automated Repair Station
+1	Tellarite Cargo Lane Automated Repair Station
 1	Organia Secure Strategic Base
 1	Ceti Alpha V Find Lifeless World
 1	Sphere 41 Eliminate Sphere Network

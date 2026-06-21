@@ -1183,3 +1183,81 @@ NEW
 -Selar Frontier Physician
 -K'Vada Covert Escort
 -Grathon Tolar Hologram Forger *VP
+
+3.2.9 (06-21-26)
+(Eberlems)
+Updated
+-Donatu Coridor Cargo Haul
+-Varria Corona Defeat Rogue Borg Vessel
+-Varria III Locate Missing Crewman
+-Bread and Circuses
+-E.M.H. Mark II, Newborn but Filled with Courage
+-Nothing to Lose
+-Signal for Rescue
+-Collapse Anti-Time Anomaly
+-Advanced Combat Training
+-Deliver Prisoners
+-Investigate Destruction
+-Automated Repair Station
+-Control Plague
+-Navigate Minefield
+-Practice Orbital Maneuvers
+-Retrieve Materiel
+-Traverse Ion Storm
+-Avert Solar Implosion
+-Deliver Ancient Artifact
+-Deliver Evidence
+-Caretaker's Array
+-Collect Omicron Particles
+-Explore Micro-Wormhole
+-Obtain Advanced Technology
+-Genesis Planet
+-Critical Care
+-Investigate Derelict
+-Aid Lost Colony
+-Elude Federation Forces
+-Expand Business Opportunities
+-Follow Homing Beacon
+-Navigate Xindi Corridor
+-Patrol Neutral Zone
+-Purchase Moon
+-Restore Errant Moon
+-Breach Barrier
+-Inversion Mystery
+-Honor the Fallen
+-Obtain Illegal Embryos
+-Protect Wormhole
+-Reestablish Neural Collective
+-Seek Savior
+-Track Survivors
+-Locate Fuel Source
+-Investigate Anachronism
+-Investigate Refinery
+-Assess Contamination
+-Falsify Distress Signal
+-Mine Vendarite
+-Off-World Raid
+-Assimilate Starship
+-Evaluate Soliton Wave
+-Repair Null Space Catapult
+-Evade Samaritan Snare
+-Fulfill Temporal Paradox
+-Liberate Photonic Servants
+-Resolve Trade Dispute
+-Settle Holographic Colony
+-Acquire Captives
+-Conceal Unlikely Society
+-Defend Evolutionary Link
+-Discard By-Product
+-Exploit "Drought"
+-Recruit Ally
+-Stage Covert Fleet
+-Aid Refugee Colony
+-Agricultural Assessment
+-Contact Mysterious Benefactor
+-Enforce Quarantine
+-Prevent Historical Disruption
+-Provoke Interstellar Incident    
+-Braslota Advanced Battle Simulation
+-Near Polaris Survey New World
+-Sector 21396 Commandeer Prototype

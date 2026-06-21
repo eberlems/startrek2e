@@ -95,3 +95,75 @@ Investigate Alleged Murder	renamed	renamed	U	Y	10U049	Mission	0	P														R
 Navigate Argolis Cluster	renamed	renamed	U	Y	12U041	Mission	0	S														Renamed to Argolis Periphery Navigate Argolis Cluster
 Gather Information	renamed	renamed	V	Y	26V023	Mission	0	P														Renamed to Dessica II Gather Information
 Identify Temporal Disturbance	renamed	renamed	V	Y	28V021	Mission	0	S														Renamed to Near Starbase 105 Identify Temporal Disturbance
+Donatu Coridor Cargo Haul	renamed	renamed	U	Y	2U099	Mission	0	S														Renamed to Donatu Corridor Cargo Haul
+Signal for Rescue	renamed	renamed	U	Y	3U105	Mission	0	P														Renamed to Desolate World in Sector 344 Signal for Rescue				
+Collapse Anti-Time Anomaly	renamed	renamed	P	Y	5P021	Mission	0	S														Renamed to Devron System Collapse Anti-Time Anomaly
+Deliver Prisoners	renamed	renamed	U	Y	7U047	Mission	0	P														Renamed to Duronom Deliver Prisoners
+Investigate Destruction	renamed	renamed	U	Y	7U049	Mission	0	S														Renamed to Outpost Delta Zero-Five Investigate Destruction
+Braslota Advanced Battle Simulation	renamed	renamed	U	Y	7U045	Mission	0	S														Renamed to Braslota System Advanced Battle Simulation
+Advanced Combat Training	renamed	renamed	U	Y	7U046	Mission	0	P														Renamed to Levinius V Advanced Combat Training
+Practice Orbital Maneuvers	renamed	renamed	U	Y	8U059	Mission	0	S														Renamed to Titan Flight Range Practice Orbital Maneuvers
+Automated Repair Station	renamed	renamed	U	Y	8U053	Mission	0	S														Renamed to Tellarite Cargo Lane Automated Repair Station
+Control Plague	renamed	renamed	U	Y	8U054	Mission	0	P														Renamed to Qu'Vat Colony Control Plague
+Retrieve Materiel	renamed	renamed	U	Y	8U060	Mission	0	P														Renamed to Bellum II Retrieve Materiel
+Near Polaris Survey New World	renamed	renamed	U	Y	8U062	Mission	0	P														Renamed to Archer IV Survey New World
+Navigate Minefield	renamed	renamed	U	Y	8U058	Mission	0	S														Renamed to Unroth System Navigate Minefield
+Traverse Ion Storm	renamed	renamed	U	Y	8U061	Mission	0	S														Renamed to Kabintis Anomaly Traverse Ion Storm
+Avert Solar Implosion	renamed	renamed	R	Y	9R005	Mission	0	P														Renamed to Veridian III Avert Solar Implosion
+Deliver Ancient Artifact	renamed	renamed	R	Y	9R006	Mission	0	P														Renamed to Vulcan Deliver Ancient Artifact
+Deliver Evidence	renamed	renamed	R	Y	9R007	Mission	0	S														Renamed to Bajoran Exosphere Deliver Evidence
+Caretaker's Array	renamed	renamed	U	Y	10U046	Mission	0	S														Renamed to Caretaker's Array Protect Ocampa
+Obtain Advanced Technology	renamed	renamed	U	Y	10U052	Mission	0	P														Renamed to Sikaris Obtain Advanced Technology
+Collect Omicron Particles	renamed	renamed	U	Y	10U047	Mission	0	S														Renamed to Roganil Nebula Collect Omicron Particles
+Explore Micro-Wormhole	renamed	renamed	U	Y	10U048	Mission	0	S														Renamed to Kosmat System Explore Micro-Wormhole
+Genesis Planet	renamed	renamed	P	Y	11P014	Mission	0	P														Renamed to Genesis Planet Analyze Unstable World
+Investigate Derelict	renamed	renamed	U	Y	13U046	Mission	0	S														Renamed to Vokau Belt Investigate Derelict
+Critical Care	renamed	renamed	U	Y	13U044	Mission	0	P														Renamed to Dinaal Critical Care
+Expand Business Opportunities	renamed	renamed	U	Y	14U055	Mission	0	P														Renamed to Dosi Homeworld Expand Business Opportunities
+Elude Federation Forces	renamed	renamed	U	Y	14U054	Mission	0	S														Renamed to Near Marva V Elude Federation Forces
+Purchase Moon	renamed	renamed	U	Y	14U060	Mission	0	P														Renamed to Miesiac Purchase Moon
+Aid Lost Colony	renamed	renamed	U	Y	14U051	Mission	0	P														Renamed to Bringloid V Aid Lost Colony
+Restore Errant Moon	renamed	renamed	U	Y	14U061	Mission	0	P														Renamed to Bre'el IV Restore Errant Moon
+Follow Homing Beacon	renamed	renamed	U	Y	14U057	Mission	0	P														Renamed to Terlina III Follow Homing Beacon
+Navigate Xindi Corridor	renamed	renamed	U	Y	14U058	Mission	0	S														Renamed to Kovalaan Nebula Navigate Xindi Corridor
+Patrol Neutral Zone	renamed	renamed	U	Y	14U059	Mission	0	S														Renamed to Sector Z-6 Patrol Neutral Zone
+Collapse Anti-Time Anomaly (Promo)	renamed	renamed	D	Y	0D008	Mission	0	S														Renamed to Devron System Collapse Anti-Time Anomaly (Promo)
+Caretaker's Array (Promo)	renamed	renamed	P	Y	0P079	Mission	0	S														Renamed to Caretaker's Array Protect Ocampa (Promo)
+Genesis Planet	renamed	renamed	P	Y	11P014	Mission	0	P														Renamed to Genesis Planet Analyze Unstable World
+Breach Barrier	renamed	renamed	V	Y	15V024	Mission	0	S														Renamed to Barrier's Edge Breach Barrier
+Inversion Mystery	renamed	renamed	V	Y	16V029	Mission	0	S														Renamed to Marayna's Nebula Inversion Mystery
+Protect Wormhole	renamed	renamed	V	Y	17V049	Mission	0	S														Renamed to Wormhole Terminus Protect Wormhole
+Honor the Fallen	renamed	renamed	V	Y	17V047	Mission	0	S														Renamed to Monac Shipyards Honor the Fallen
+Obtain Illegal Embryos	renamed	renamed	V	Y	17V048	Mission	0	S														Renamed to Cold Station 12 Obtain Illegal Embryos
+Reestablish Neural Cooperative	renamed	renamed	V	Y	17V050	Mission	0	P														Renamed to Nudios Reestablish Neural Cooperative
+Seek Savior	renamed	renamed	V	Y	17V051	Mission	0	S														Renamed to Sendrii System Seek Savior
+Track Survivors	renamed	renamed	V	Y	18V018	Mission	0	P														Renamed to Angel I Track Survivors
+Locate Fuel Source	renamed	renamed	V	Y	20V013	Mission	0	P														Renamed to Ankari Homeworld Locate Fuel Source
+Investigate Refinery	renamed	renamed	V	Y	22V029	Mission	0	P														Renamed to Ruhka III Investigate Refinery
+Investigate Anachronism	renamed	renamed	V	Y	22V028	Mission	0	P														Renamed to Kulob II Investigate Anachronism
+Assess Contamination	renamed	renamed	V	Y	23V027	Mission	0	P														Renamed to Sigma Iotia II Assess Contamination
+Falsify Distress Signal	renamed	renamed	V	Y	23V028	Mission	0	S														Renamed to Ligos Outskirts Falsify Distress
+Mine Vendarite	renamed	renamed	V	Y	23V029	Mission	0	P														Renamed to Ligos VII Mine Vendarite
+Off-World Raid	renamed	renamed	V	Y	23V030	Mission	0	P														Renamed to Pullock V Off-World Raid
+Assimilate Starship	renamed	renamed	V	Y	24V020	Mission	0	S														Renamed to Unimatrix 116 Assimilate Starship
+Evaluate Soliton Wave	renamed	renamed	V	Y	24V021	Mission	0	S														Renamed to Bilana System Evaluate Soliton Wave
+Repair Null Space Catapult	renamed	renamed	V	Y	24V022	Mission	0	S														Renamed to Tash's Station Repair Null Space Catapult
+Evade Samaritan Snare	renamed	renamed	V	Y	25V018	Mission	0	S														Renamed to Rhomboid Dronegar Sector Evade Samaritan Snare
+Fulfill Temporal Paradox	renamed	renamed	V	Y	25V019	Mission	0	P														Renamed to Gaia Fulfill Temporal Paradox
+Liberate Photonic Servants	renamed	renamed	V	Y	25V020	Mission	0	S														Renamed to Nuu'Bari Space Liberate Photonic Servants
+Resolve Trade Dispute	renamed	renamed	V	Y	25V021	Mission	0	S														Renamed to Riese System Resolve Trade Dispute
+Settle Holographic Colony	renamed	renamed	V	Y	25V022	Mission	0	P														Renamed to Ha'Dara Settle Holographic Colony
+Acquire Captives	renamed	renamed	V	Y	26V018	Mission	0	S														Renamed to Lamatas System Acquire Captives
+Conceal Unlikely Society	renamed	renamed	V	Y	26V019	Mission	0	P														Renamed to Carraya IV Conceal Unlikely Society
+Defend Evolutionary Link	renamed	renamed	V	Y	26V020	Mission	0	S														Renamed to Zeta Gelis Cluster Defend Evolutionary Link
+Discard By-Product	renamed	renamed	V	Y	26V021	Mission	0	S														Renamed to Malon Vortex Discard By-Product
+Exploit "Drought"	renamed	renamed	V	Y	26V022	Mission	0	P														Renamed to Balancar Exploit "Drought"
+Recruit Ally	renamed	renamed	V	Y	26V025	Mission	0	S														Renamed to Cardassian Sector Recruit Ally
+Stage Covert Fleet	renamed	renamed	V	Y	26V026	Mission	0	S														Renamed to Obatta Cluster Stage Covert Fleet
+Aid Refugee Colony	renamed	renamed	V	Y	27V006	Mission	0	P														Renamed to Valo II Aid Refugee Colony
+Agricultural Assessment	renamed	renamed	V	Y	28V018	Mission	0	P														Renamed to Sherman's Planet Agricultural Assessment
+Contact Mysterious Benefactor	renamed	renamed	V	Y	28V019	Mission	0	S														Renamed to Paragaan Sector Contact Mysterious Benefactor
+Enforce Quarantine	renamed	renamed	V	Y	28V020	Mission	0	S														Renamed to Gamma 7 Sector Enforce Quarantine
+Prevent Historical Disruption	renamed	renamed	V	Y	28V022	Mission	0	S														Renamed to Curnab Sector Prevent Historical Disruption
+Provoke Interstellar Incident	renamed	renamed	V	Y	28V023	Mission	0	S														Renamed to Andorian-Tellarite Border Provoke Interstellar Incident
+Prevent Historical Disruption (MAH)	renamed	renamed	V	Y	54V020	Mission	0	S														Renamed to Curnab Sector Prevent Historical Disruption (MAH)

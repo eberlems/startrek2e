@@ -59,4 +59,4 @@ Missions:
 1	Cardassia Prime Hardscrabble World
 1	Satvintri Cloud Collect Sample
 1	Lapideas System Geological Survey
-1	Near Polaris Survey New World
+1	Archer IV Survey New World

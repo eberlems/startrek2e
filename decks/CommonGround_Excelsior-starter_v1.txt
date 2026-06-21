@@ -56,4 +56,4 @@ Missions:
 1	Alpha 5 Approach Transport Crash Survivor
 1	Loren III Combined Discovery
 1	Rigel X Locate Mysterious Contact
-1	Investigate Derelict
+1	Vokau Belt Investigate Derelict

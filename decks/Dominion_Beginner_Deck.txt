@@ -65,7 +65,7 @@ Dilemmas:
 1	Old Differences
 1	Rogue Borg Ambush
 Missions:
-1	Stage Covert Fleet
+1	Obatta Cluster Stage Covert Fleet
 1	Torga IV Strained Negotiations
 1	Founders' Homeworld Contingent Refuge
 1	Stakoron Strait Patrol Shipping Lane

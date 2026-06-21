@@ -64,6 +64,6 @@ Dilemmas:
 Missions:
 1	Vandros IV Destroy Iconian Gateway
 1	Founders' Homeworld Home of the Great Link
-1	Stage Covert Fleet
+1	Obatta Cluster Stage Covert Fleet
 1	Torga IV Strained Negotiations
 1	Teplan Prime Subjugate Planet

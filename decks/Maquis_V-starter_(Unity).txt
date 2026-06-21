@@ -59,4 +59,4 @@ Missions:
 1	Bryma System Intercept Maquis
 1	Athos IV Maquis Base
 1	Volan III Investigate Maquis Activity
-1	Elude Federation Forces
+1	Near Marva V Elude Federation Forces

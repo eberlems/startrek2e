@@ -58,5 +58,5 @@ Missions:
 1	Earth Cradle of the Federation
 1	Lapideas System Geological Survey
 1	Moab IV Avert Danger
-1	Automated Repair Station
+1	Tellarite Cargo Lane Automated Repair Station
 1	Near Starbase 105 Identify Temporal Disturbance

@@ -68,5 +68,5 @@ Missions:
 1	Cardassia IV Rescue Prisoners
 1	Valt Minor Brute Force
 1	Crensen Gap Protect the Escapees
-1	Provoke Interstellar Incident
+1	Andorian-Tellarite Border Provoke Interstellar Incident
 1	Qo'noS Heart of the Empire

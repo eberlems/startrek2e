@@ -65,7 +65,7 @@ Dilemmas:
 1	Old Differences
 1	Rogue Borg Ambush
 Missions:
-1	Investigate Destruction
+1	Outpost Delta Zero-Five Investigate Destruction
 1	Torga IV Strained Negotiations
 1	Ba'ku Planet Safeguard Civilization
 1	Mouth of the Wormhole Deep Space 9

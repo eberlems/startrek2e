@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>260525</lastupdateYYMMDD>
+<lastupdateYYMMDD>260621</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Errata and VPs https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Errata https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

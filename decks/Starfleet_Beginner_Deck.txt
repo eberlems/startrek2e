@@ -66,7 +66,7 @@ Dilemmas:
 1	Rogue Borg Ambush
 Missions:
 1	Alpha 5 Approach Transport Crash Survivor
-1	Investigate Refinery
+1	Ruhka III Investigate Refinery
 1	Jupiter Test Experimental Engine
 1	Terra Nova Reestablish Communications
 1	Earth Humanity's Home

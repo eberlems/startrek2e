@@ -69,5 +69,5 @@ Missions:
 1	Iconia Iconia Investigation
 1	Romulus Seat of Power
 1	Remus Supervise Dilithium Mine
-1	Patrol Neutral Zone
+1	Sector Z-6 Patrol Neutral Zone
 1	Nelvana III Compelling Threat

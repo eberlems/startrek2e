@@ -56,7 +56,7 @@ Dilemmas:
 1	Timescape
 Missions:
 1	Ferenginar Financial Hub
-1	Elude Federation Forces
-1	Purchase Moon
+1	Near Marva V Elude Federation Forces
+1	Miesiac Purchase Moon
 1	Parsion III Feldomite Rush
 1	Sector 1156 Investigate Rogue Comet

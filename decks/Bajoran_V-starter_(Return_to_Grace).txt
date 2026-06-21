@@ -58,5 +58,5 @@ Missions:
 1	Hromi Cluster Amnesty Talks
 1	Volan III Investigate Maquis Activity
 1	Selay Transport Delegations
-1	Defend Evolutionary Link
+1	Zeta Gelis Cluster Defend Evolutionary Link
 1	Bajor Blessed of the Prophets
