@@ -1261,3 +1261,8 @@ Updated
 -Braslota Advanced Battle Simulation
 -Near Polaris Survey New World
 -Sector 21396 Commandeer Prototype
+
+3.2.10 (07-19-26)
+(Eberlems)
+Updated
+-Renamed missions

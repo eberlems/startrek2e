@@ -10,8 +10,8 @@ Rescue Prisoners	renamed	renamed	U	Y	1U194	Mission	0	P														Renamed to C
 Kressari Rendezvous	renamed	renamed	U	Y	1U184	Mission	0	S														Renamed to Cardassian Outskirts Kressari Rendezvous
 Find Lifeless World	renamed	renamed	U	Y	14U056	Mission	0	P														Renamed to Ceti Alpha V Find Lifeless World
 Forge Settlement	renamed	renamed	V	Y	29V035	Mission	0	P														Renamed to Ceti Alpha V Forge Settlement
-Perimeter Penetrate Enemy Lines	renamed	renamed	V	Y	26V024	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines
-Perimeter Penetrate Enemy Lines *VP	renamed	renamed	VP	Y	0VP349	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines *VP
+Penetrate Enemy Lines	renamed	renamed	V	Y	26V024	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines
+Penetrate Enemy Lines *VP	renamed	renamed	VP	Y	0VP349	Mission	0	S														Renamed to Contested Defense Perimeter Penetrate Enemy Lines *VP
 Protect the Escapees	renamed	renamed	U	Y	7U051	Mission	0	S														Renamed to Crensen Gap Protect the Escapees
 The Last Outpost	renamed	renamed	U	Y	7U053	Mission	0	P														Renamed to Delphi Ardu IV The Last Outpost
 Encounter at Farpoint	renamed	renamed	U	Y	1U164	Mission	0	P														Renamed to Deneb IV Encounter at Farpoint
@@ -95,12 +95,10 @@ Investigate Alleged Murder	renamed	renamed	U	Y	10U049	Mission	0	P														R
 Navigate Argolis Cluster	renamed	renamed	U	Y	12U041	Mission	0	S														Renamed to Argolis Periphery Navigate Argolis Cluster
 Gather Information	renamed	renamed	V	Y	26V023	Mission	0	P														Renamed to Dessica II Gather Information
 Identify Temporal Disturbance	renamed	renamed	V	Y	28V021	Mission	0	S														Renamed to Near Starbase 105 Identify Temporal Disturbance
-Donatu Coridor Cargo Haul	renamed	renamed	U	Y	2U099	Mission	0	S														Renamed to Donatu Corridor Cargo Haul
 Signal for Rescue	renamed	renamed	U	Y	3U105	Mission	0	P														Renamed to Desolate World in Sector 344 Signal for Rescue				
 Collapse Anti-Time Anomaly	renamed	renamed	P	Y	5P021	Mission	0	S														Renamed to Devron System Collapse Anti-Time Anomaly
 Deliver Prisoners	renamed	renamed	U	Y	7U047	Mission	0	P														Renamed to Duronom Deliver Prisoners
 Investigate Destruction	renamed	renamed	U	Y	7U049	Mission	0	S														Renamed to Outpost Delta Zero-Five Investigate Destruction
-Braslota Advanced Battle Simulation	renamed	renamed	U	Y	7U045	Mission	0	S														Renamed to Braslota System Advanced Battle Simulation
 Advanced Combat Training	renamed	renamed	U	Y	7U046	Mission	0	P														Renamed to Levinius V Advanced Combat Training
 Practice Orbital Maneuvers	renamed	renamed	U	Y	8U059	Mission	0	S														Renamed to Titan Flight Range Practice Orbital Maneuvers
 Automated Repair Station	renamed	renamed	U	Y	8U053	Mission	0	S														Renamed to Tellarite Cargo Lane Automated Repair Station

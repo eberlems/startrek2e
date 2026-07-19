@@ -75,7 +75,7 @@ Add the new expansion as a new entry.
 Run the following command from the root of the repository to update the checksum of `updatelist.txt`:
 
 ```bash
-./mkupdate plugins/startrek2e/updatelist.txt
+/mkupdate plugins/startrek2e/updatelist.txt
 ```
 
 > This tells LackeyCCG that a new update is available.
