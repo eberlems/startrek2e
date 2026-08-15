@@ -1266,3 +1266,8 @@ Updated
 (Eberlems)
 Updated
 -Renamed missions
+
+3.2.11 (08-15-26)
+(Nate W)
+Updated
+-Fixed Bellum II and Daniels Timeless Guardian

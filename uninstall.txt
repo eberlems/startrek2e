@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>260416</dateYYMMDD>
+<dateYYMMDD>260814</dateYYMMDD>
 <removepath>sets/Reflection_2_0_reprints.txt</removepath>
 <removepath>sets/Excelsior.txt</removepath>
 <removepath>sets/Excelsior11.txt</removepath>
@@ -204,4 +204,5 @@
 <removepath>sets/setimages/general/STVP-EN356.jpg</removepath>
 <removepath>sets/setimages/general/ST2E-EN03064.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN155.jpg</removepath>
+<removepath>sets/setimages/general/ST2E08060a.jpg</removepath>
 </uninstall>
