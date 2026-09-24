@@ -1271,3 +1271,19 @@ Updated
 (Nate W)
 Updated
 -Fixed Bellum II and Daniels Timeless Guardian
+
+3.2.12 (09-23-26)
+(Nate W)
+Updated
+-Stakoron Strait, Patrol Shipping Lane
+-Stakoron II, Mine Miszinite
+-Not Quite Domesticated Pets
+-Nothing to Lose
+-Coordinated Counterattack
+-Distracting Exhibition
+-Heightened Perception
+-Make a Run for It
+-Farek, Distrusting Doctor
+-K'Temoc, Long-Slumbering Commander
+-Iden, Lustrous Demagogue
+-U.S.S. Centaur, Patrolling Ship
