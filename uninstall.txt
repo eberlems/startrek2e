@@ -205,4 +205,17 @@
 <removepath>sets/setimages/general/ST2E-EN03064.jpg</removepath>
 <removepath>sets/setimages/general/STVP-EN155.jpg</removepath>
 <removepath>sets/setimages/general/ST2E08060a.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN33029.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN33030.jpgv</removepath>
+<removepath>sets/setimages/general/st2e-en11004.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN47003.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN17023.jpg</removepath>
+<removepath>sets/setimages/general/ST2E08032.jpg</removepath>
+<removepath>sets/setimages/general/ST2E-EN05006.jpg</removepath>
+<removepath>sets/setimages/general/st2e-en10028.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN22038.jpg</removepath>
+<removepath>sets/setimages/general/st2e-en10090.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN25045.jpg</removepath>
+<removepath>sets/setimages/general/STVE-EN19015.jpg</removepath>
+
 </uninstall>
