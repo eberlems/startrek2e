@@ -1287,3 +1287,6 @@ Updated
 -K'Temoc, Long-Slumbering Commander
 -Iden, Lustrous Demagogue
 -U.S.S. Centaur, Patrolling Ship
+
+3.2.13 (09-28-26)
+Updated promos and corrected image files in previous update.

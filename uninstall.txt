@@ -1,5 +1,5 @@
 <uninstall>
-<dateYYMMDD>260814</dateYYMMDD>
+<dateYYMMDD>260927</dateYYMMDD>
 <removepath>sets/Reflection_2_0_reprints.txt</removepath>
 <removepath>sets/Excelsior.txt</removepath>
 <removepath>sets/Excelsior11.txt</removepath>
