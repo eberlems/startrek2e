@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>260923</lastupdateYYMMDD>
+<lastupdateYYMMDD>261021</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Errata Updates https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Errata Update and Star Trek 60: The Diamond Anniversary Collection https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

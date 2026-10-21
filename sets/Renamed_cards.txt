@@ -165,3 +165,4 @@ Enforce Quarantine	renamed	renamed	V	Y	28V020	Mission	0	S														Renamed t
 Prevent Historical Disruption	renamed	renamed	V	Y	28V022	Mission	0	S														Renamed to Curnab Sector Prevent Historical Disruption
 Provoke Interstellar Incident	renamed	renamed	V	Y	28V023	Mission	0	S														Renamed to Andorian-Tellarite Border Provoke Interstellar Incident
 Prevent Historical Disruption (MAH)	renamed	renamed	V	Y	54V020	Mission	0	S														Renamed to Curnab Sector Prevent Historical Disruption (MAH)
+Near Marva V Elude Federation Forces	renamed	renamed	U	Y	14U054	Mission	0	S														Renamed to Near Marva IV Elude Federation Forces
