@@ -1270,23 +1270,56 @@ Updated
 3.2.11 (08-15-26)
 (Nate W)
 Updated
--Fixed Bellum II and Daniels Timeless Guardian
+-Bellum II
+-Daniels Timeless Guardian
 
 3.2.12 (09-23-26)
 (Nate W)
 Updated
--Stakoron Strait, Patrol Shipping Lane
--Stakoron II, Mine Miszinite
+-Stakoron Strait Patrol Shipping Lane
+-Stakoron II Mine Miszinite
 -Not Quite Domesticated Pets
 -Nothing to Lose
 -Coordinated Counterattack
 -Distracting Exhibition
 -Heightened Perception
 -Make a Run for It
--Farek, Distrusting Doctor
--K'Temoc, Long-Slumbering Commander
+-Farek Distrusting Doctor
+-K'Temoc Long-Slumbering Commander
 -Iden, Lustrous Demagogue
--U.S.S. Centaur, Patrolling Ship
+-U.S.S. Centaur Patrolling Ship
 
 3.2.13 (09-28-26)
+(Nate W)
 Updated promos and corrected image files in previous update.
+
+3.2.14 (10-21-26)
+(Eberlems)
+NEW
+-Star Trek 60: The Diamond Anniversary Collection
+Updated
+-Andro
+-Anhaica
+-Berman
+-Borven
+-Bronok
+-Brun
+-Danig Kell
+-Frame of Mind
+-Fredericks
+-Groumall Inauspicious Command
+-Groumall Inauspicious Command *VP
+-Groumall Inauspicious Command (BP)
+-Haadok
+-Piller
+-Pimoo
+-Plans Within Plans
+-Revok Eager Ally
+-Sara Fisher
+-Tajor
+-Taylor
+-Tugat
+-Turo
+-Two of Nine Transtator Drone
+-V'mor
+-Venoxis

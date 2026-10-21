@@ -96,5 +96,6 @@
 	<set>FOW</set>
 	<set>RoF</set>
 	<set>WNOHGB</set>
+	<set>60th</set>
 </format>
 </formatdefinitions>
