@@ -424,5 +424,11 @@
     "name": "Where No One Has Gone Before",
     "code": "WNOHGB",
     "virtual": true
+  },
+  {
+    "id": "261",
+    "name": "Star Trek 60: The Diamond Anniversary Collection",
+    "code": "60th",
+    "virtual": true
   }
 ]
